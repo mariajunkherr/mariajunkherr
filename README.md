@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariajunkherr
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programmin
-- 📫 How to reach me is @mariajuknherr in instagram
+- 📫 How to reach me is @mariajunkherr in instagram
 - From Brazil
 
 <!---
